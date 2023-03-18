@@ -76,6 +76,7 @@ body{
     font-size:32px;
     color: aliceblue;
     text-align:center;
+    padding-top: 20px;
 
 }
 
@@ -117,6 +118,7 @@ body{
     display:flex;
     justify-content: space-between;
     font-size:13px;
+    padding-top: 5px;
 }
 
 .group a{
@@ -136,6 +138,7 @@ body{
     outline:none;
     border:none;
     border-radius:5px;
+    margin-bottom: 10px;
 }
 
 .button:focus{
